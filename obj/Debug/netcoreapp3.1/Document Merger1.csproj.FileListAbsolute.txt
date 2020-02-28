@@ -1,0 +1,11 @@
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\bin\Debug\netcoreapp3.1\Document Merger1.exe
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\bin\Debug\netcoreapp3.1\Document Merger1.deps.json
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\bin\Debug\netcoreapp3.1\Document Merger1.runtimeconfig.json
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\bin\Debug\netcoreapp3.1\Document Merger1.runtimeconfig.dev.json
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\bin\Debug\netcoreapp3.1\Document Merger1.dll
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\bin\Debug\netcoreapp3.1\Document Merger1.pdb
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\obj\Debug\netcoreapp3.1\Document Merger1.csprojAssemblyReference.cache
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\obj\Debug\netcoreapp3.1\Document Merger1.AssemblyInfoInputs.cache
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\obj\Debug\netcoreapp3.1\Document Merger1.AssemblyInfo.cs
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\obj\Debug\netcoreapp3.1\Document Merger1.dll
+C:\Users\cm3wa\OneDrive\Desktop\Document Merger1\obj\Debug\netcoreapp3.1\Document Merger1.pdb
